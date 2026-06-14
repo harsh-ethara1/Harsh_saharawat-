@@ -1,0 +1,31 @@
+The website contains exactly 7 required pages.
+The homepage includes a hero section.
+The homepage includes a minimum of 4 featured challenge cards.
+The homepage includes a minimum of 4 game category cards.
+The homepage includes a leaderboard preview with at least 5 player entries.
+The homepage includes a seasonal challenge highlight section.
+The Game Discovery page includes a search bar.
+The Game Discovery page includes a minimum of 6 game cards.
+Each game card contains a title.
+Each game card includes a description between 20 and 40 words.
+Each game card includes a difficulty label.
+The Player Dashboard includes a minimum of 6 achievement badges.
+The Player Dashboard includes at least 5 recent activity items.
+The Player Dashboard includes a reward milestone section.
+The Leaderboard page includes weekly rankings.
+The Leaderboard page includes monthly rankings.
+The Leaderboard page includes seasonal rankings.
+Each leaderboard section includes a minimum of 10 player entries.
+Each leaderboard entry contains a username.
+The Seasonal Challenges page includes a minimum of 3 active challenge cards.
+The Seasonal Challenges page includes a minimum of 2 upcoming event cards.
+The FAQ page contains a minimum of 8 questions and answers.
+The Contact page includes name, email, and message fields.
+The website uses no more than 4 primary interface colors.
+The website uses modern sans serif typography.
+Navigation is visible at the top of every page.
+The layout remains functional at desktop width 1440px, tablet width 768px, and mobile width 375px.
+The submission includes index.html, games.html, dashboard.html, leaderboard.html, challenges.html, faq.html, contact.html, and styles.css.
+The submission includes an assets folder.
+The submission avoids copyrighted game brands and recognizable intellectual property.
+The submission does not include multiplayer systems, backend authentication, database setup, or payment systems.
