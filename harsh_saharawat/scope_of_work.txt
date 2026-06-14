@@ -1,5 +1,0 @@
-This project involves the design and development of a responsive multilevel gaming website prototype known as ArcadePulse.
-This website will require to have precisely seven mandatory webpages that include Home, Game Discovery, Player Dashboard, Leaderboard, Seasonal Challenges, FAQ, and Contact.
-All pages are supposed to have consistency in navigational design, font style, spacing, and visual aesthetics related to gaming.
-Key functionalities will include game challenge cards, leaderboard segments, player achievements, tracking of progress, seasonal events, responsive navigation, and organization of dummy data.
-This is an exclusively frontend-based project without any regard for back-end aspects such as multiplayer integration, payment methods, authentication services, database management, and functional games.

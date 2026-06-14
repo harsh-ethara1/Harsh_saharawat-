@@ -1,3 +1,0 @@
-ArcadePulse is a browser-based gaming site that aims to provide a platform for fast-paced skills-based gaming competitions, leaderboards, and seasonal gaming events geared towards the average player.
-This gaming platform aims to be a lively and vibrant gaming platform where users can browse for easy-to-play browser games and partake in gaming challenges while tracking achievements through a well-designed and interactive user interface.
-The website will strike a balance between its gaming-inspired design aesthetic and ease of use through proper layout structures, navigations, and content hierarchies throughout all web pages. This project will serve as a frontend-centric prototype gaming website.
